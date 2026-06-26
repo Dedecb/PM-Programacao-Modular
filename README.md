@@ -14,12 +14,14 @@ Este repositório tem como objetivo consolidar os conceitos de programação mod
 ---
 
 ## 🔖 Organização do Repositório  
-Os conteúdos estão organizados de acordo com a estrutura da disciplina:
+Os conteúdos estão organizados em duas categorias principais:
 
-- **lista-00/** → lista de exercícios inicial  
-- **prova-teorica-1/** e **prova-teorica-2/** → provas teóricas do 1º e 2º bimestre  
-- **prova-pratica-1/** e **prova-pratica-2/** → provas práticas do 1º e 2º bimestre  
-- **lista-revisao-1/** e **lista-revisao-2/** → listas de revisão para as provas  
+- **exercicios/** → listas de exercícios propostas em aula  
+  - `lista-00/`
+
+- **provas/** → avaliações da disciplina, agrupadas por bimestre  
+  - `prova-1/` → lista de revisão, prova teórica e prova prática do 1º bimestre  
+  - `prova-2/` → lista de revisão, prova teórica e prova prática do 2º bimestre  
 
 Essa organização permite acompanhar minha evolução ao longo da matéria.
 
