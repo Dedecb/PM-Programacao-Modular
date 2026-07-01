@@ -1,10 +1,11 @@
-import java.util.Scanner;
-
 //1. Fatorial – Fac¸a um programa que leia um valor inteiro x e calcule seu fatorial.O fatorial (!)
 //e dado pela seguinte formula:
 //3! = 3 ∗ 2 ∗ 1
 //4! = 4 ∗ 3 ∗ 2 ∗ 1
 //5! = 5 ∗ 4 ∗ 3 ∗ 2 ∗ 1
+
+import java.util.Scanner;
+
 public class Questao1 {
     public static void main(String[] args){
             int x, fat = 1;
